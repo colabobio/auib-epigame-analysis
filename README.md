@@ -2,7 +2,7 @@
 
 Analysis of the epigame data. First, download the data from the following zenodo repository:
 
-https://zenodo.org/records/18108261
+https://doi.org/10.5281/zenodo.18209231
 
 Then, tun the following Jupyter notebooks in order:
 
